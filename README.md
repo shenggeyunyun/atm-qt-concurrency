@@ -118,4 +118,4 @@ $env:ATM_DB_PATH = "$PWD\atm-demo.sqlite3"
 
 ## License
 
-当前仓库未指定开源许可证。如需公开分发，建议根据课程要求或个人意愿补充 MIT 等许可证文件。
+This project is released under the [MIT License](LICENSE), allowing anyone to use, copy, modify, publish, distribute, sublicense, and sell the software, subject to the license terms.
