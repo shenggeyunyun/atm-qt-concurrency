@@ -1,0 +1,9 @@
+#pragma once
+#include "close_queue.hpp"
+#include "message_base.hpp"
+#include "wrapped_message.hpp"
+#include "queue.hpp"
+#include "sender.hpp"
+#include "dispatcher.hpp"
+#include "template_dispatcher.hpp"
+#include "receiver.hpp"

@@ -1,0 +1,14 @@
+build/
+build-*/
+.vs/
+.qtcreator/
+*.user
+*.user.*
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
